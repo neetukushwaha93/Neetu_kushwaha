@@ -6,7 +6,7 @@ I'm an aspiring Data Analyst passionate about turning raw data into actionable i
 🔭 I’m currently working on: E-commerce & Credit Card Data Analysis Projects  
 🌱 I’m currently learning: Advanced Power BI, Python for Data Analysis  
 💬 Ask me about: SQL, Power BI, Excel, Python, Data Visualization, Analytics  
-📫 How to reach me: [Email](neetukushwaha517@gmail.com) | [LinkedIn](https://www.linkedin.com/in/neetu-kushwaha-240123330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/neetukushwaha93/Neetu_kushwaha/edit/main/README.md)
+📫 How to reach me: [Email](neetukushwaha517@gmail.com) | [LinkedIn](https://www.linkedin.com/in/neetu-kushwaha-240123330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/neetukushwaha93/Neetu_kushwaha)
 🛠️ **Tech Stack / Skills**  
 SQL 💻 | Excel 📊 | Power BI 📊 | Python 🐍 | Pandas 🐼 | Matplotlib 📈 | Joins 🔗 | Aggregations ➕ | Queries ❓
 
@@ -21,6 +21,6 @@ Performed fraud detection and data visualization on credit card transaction data
 Tech Stack: SQL, Python, Power BI
 
 📊 GitHub Stats  
-![Neetu's GitHub stats](https://github.com/neetukushwaha93/Neetu_kushwaha/edit/main/README.md)
+![Neetu's GitHub stats](https://github.com/neetukushwaha93/Neetu_kushwaha)
 📫 Let's Connect  
-[LinkedIn 🔗](https://www.linkedin.com/in/neetu-kushwaha-240123330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/neetukushwaha93/Neetu_kushwaha/edit/main/README.md)) | [Email ✉️](neetukushwaha517@gmail.com) | [GitHub 🐙](https://github.com/NeetuKushwaha)
+[LinkedIn 🔗](https://www.linkedin.com/in/neetu-kushwaha-240123330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/neetukushwaha93/Neetu_kushwaha)) | [Email ✉️](neetukushwaha517@gmail.com) | [GitHub 🐙](https://github.com/NeetuKushwaha)
