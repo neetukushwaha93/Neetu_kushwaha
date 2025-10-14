@@ -23,4 +23,4 @@ Tech Stack: SQL, Python, Power BI
 📊 GitHub Stats  
 ![Neetu's GitHub stats](https://github.com/neetukushwaha93/Neetu_kushwaha)
 📫 Let's Connect  
-[LinkedIn 🔗](https://www.linkedin.com/in/neetu-kushwaha-240123330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/neetukushwaha93/Neetu_kushwaha)) | [Email ✉️](neetukushwaha517@gmail.com) | [GitHub 🐙](https://github.com/NeetuKushwaha)
+[LinkedIn 🔗](https://www.linkedin.com/in/neetu-kushwaha-240123330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/neetukushwaha93/Neetu_kushwaha)) | [Email ✉️](neetukushwaha517@gmail.com) | [GitHub 🐙](https://github.com/neetukushwaha93/Neetu_kushwaha)
