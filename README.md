@@ -20,7 +20,7 @@ Tech Stack:** Power BI, SQL, Excel, Python
 Performed fraud detection and data visualization on credit card transaction datasets using SQL and Python.  
 Tech Stack: SQL, Python, Power BI
 
-📊 GitHub Stats  
-![Neetu's GitHub stats](https://github.com/neetukushwaha93/Neetu_kushwaha)
+📊 **GitHub Stats**  
+![Neetu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeetuKushwaha&show_icons=true&theme=radical)
 📫 Let's Connect  
 [LinkedIn 🔗](https://www.linkedin.com/in/neetu-kushwaha-240123330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/neetukushwaha93/Neetu_kushwaha)) | [Email ✉️](neetukushwaha517@gmail.com) | [GitHub 🐙](https://github.com/neetukushwaha93/Neetu_kushwaha)
