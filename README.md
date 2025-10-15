@@ -20,7 +20,7 @@ Joins 🔗 | Aggregations ➕ | Queries ❓
 
 ---
 
-** 💼 Projects**
+ 💼 Projects
 
 **🟢 E-commerce Sales Analysis 🛒**
 
