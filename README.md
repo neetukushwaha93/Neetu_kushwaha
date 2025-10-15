@@ -1,6 +1,6 @@
 
 
-## 👋 Hi there, I'm **Neetu Kushwaha**
+##  Hi there,👋  I'm **Neetu Kushwaha**
 
 ### 💻 About Me
 
