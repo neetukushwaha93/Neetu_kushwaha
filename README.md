@@ -36,9 +36,8 @@ Tech Stack: SQL, Python, Power BI
 
 ---
 
- 📊 GitHub Stats
-
-(You can later add a stats card or activity graph here — for example using [GitHub Readme Stats]((https://github.com/neetukushwaha93/Neetu_kushwaha)
+ 📊 *GitHub Stats*  
+![Neetu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeetuKushwaha&show_icons=true&theme=radical)
 
 ---
 
